@@ -5,7 +5,7 @@
  
  py manage.py runserver
  
- https://github.com/CodingWithVish/Python-Django-Simple-Website/blob/main/django-simple-web-home.png
+ ![django-simple-web-home](https://user-images.githubusercontent.com/100479588/200896981-791c2812-b761-442e-b297-3a8920f8203b.png)
  
  and visit http://127.0.0.1:8000/
  
